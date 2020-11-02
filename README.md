@@ -1,2 +1,1 @@
-# learn-messagequeue
-消息队列学习笔记
+# 消息中间件之kafka
